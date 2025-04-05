@@ -66,7 +66,9 @@ Raptor/
 ## 👥 Team Members
 
 - **Avinash Goyal** – Team Leader  
-- [Add other team members' names and roles here]
+- **Vartika Shikha**
+- **Subham Kumar**
+- **Malya Manohar**
 
 ---
 
