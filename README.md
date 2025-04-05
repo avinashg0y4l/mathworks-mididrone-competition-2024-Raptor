@@ -29,15 +29,23 @@ The competition required teams to design and simulate an **autonomous drone syst
 
 ---
 
-## 📁 Folder Structure
-Raptor/ ├── controller/ # Simulink-based control system models
-├── libraries/ # Custom Simulink and MATLAB function blocks
-├── linearAirframe/ # Linear drone dynamics modeling
-├── nonlinearAirframe/ # Nonlinear simulation of drone flight
-├── mainModels/ # Top-level Simulink models and mission logic
-├── resources/ │ └── project/ # Project-related auto-generated resources
-├── support/ │ └── texture/ # Visual assets and textures for the simulation
-├── tasks/ │ └── private/ # Task assignment logic and internal scripts
-├── tests/ # Test scripts and validation cases
-├── utilities/ # Helper functions, setup scripts, logging
-└── work/ # Simulation results and temporary files
+```
+📁 Folder Structure
+
+Raptor/
+├── controller/             # Simulink-based control system models  
+├── libraries/              # Custom Simulink and MATLAB function blocks  
+├── linearAirframe/         # Linear drone dynamics modeling  
+├── nonlinearAirframe/      # Nonlinear simulation of drone flight  
+├── mainModels/             # Top-level Simulink models and mission logic  
+├── resources/
+│   └── project/            # Project-related auto-generated resources  
+├── support/
+│   └── texture/            # Visual assets and textures for the simulation  
+├── tasks/
+│   └── private/            # Task assignment logic and internal scripts  
+├── tests/                  # Test scripts and validation cases  
+├── utilities/              # Helper functions, setup scripts, logging  
+└── work/                   # Simulation results and temporary files  
+```
+
