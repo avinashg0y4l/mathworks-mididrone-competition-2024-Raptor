@@ -1,4 +1,3 @@
-﻿# mathworks-mididrone-competition-2024-Raptor
 # 🛩️ Team Raptor - MathWorks MiniDrone Competition 2024
 
 > 🎖️ **Top 10 Finalist (All India)**  
