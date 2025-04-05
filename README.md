@@ -49,3 +49,42 @@ Raptor/
 └── work/                   # Simulation results and temporary files  
 ```
 
+
+---
+
+## 🛠️ Technologies Used
+
+- **MATLAB R2024a**
+- **Simulink & Stateflow**
+- **Embedded Coder**
+- **Model-Based Design**
+- **Simulink 3D Animation**
+- **MiniDrone Simulation Platform (MathWorks)**
+
+---
+
+## 👥 Team Members
+
+- **Avinash Goyal** – Team Leader  
+- [Add other team members' names and roles here]
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for more details.
+
+---
+
+## 🙏 Acknowledgements
+
+We sincerely thank:
+- **MathWorks** for this amazing competition
+- **IISc Bengaluru**, especially the **Department of Aerospace Engineering**, for hosting the grand finale
+- Our faculty mentors and peers who supported our journey
+- All the organizers and evaluators involved
+
+---
+
+> 🚀 *Team Raptor – Soaring with Precision and Code!*
